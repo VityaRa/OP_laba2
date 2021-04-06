@@ -1,0 +1,4 @@
+C:\Users\Vityarka\Desktop\ЛАБА 2\SECOND\Debug\SECOND.exe
+C:\Users\Vityarka\Desktop\ЛАБА 2\SECOND\Debug\SECOND.pdb
+C:\Users\Vityarka\Desktop\Лабы\ЛАБА 2\SECOND\Debug\SECOND.exe
+C:\Users\Vityarka\Desktop\Лабы\ЛАБА 2\SECOND\Debug\SECOND.pdb

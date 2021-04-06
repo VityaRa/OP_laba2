@@ -1,0 +1,6 @@
+﻿  Money.cpp
+C:\Users\Vityarka\Desktop\Лабы\ЛАБА 2\SECOND\Money.cpp(81): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\Vityarka\Desktop\Лабы\ЛАБА 2\SECOND\Money.cpp(98): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\Vityarka\Desktop\Лабы\ЛАБА 2\SECOND\Money.cpp(68): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\Vityarka\Desktop\Лабы\ЛАБА 2\SECOND\Money.cpp(116): warning C4172: возвращение адреса локальной или временной переменной
+  SECOND.vcxproj -> C:\Users\Vityarka\Desktop\Лабы\ЛАБА 2\SECOND\Debug\SECOND.exe
